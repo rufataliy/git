@@ -1,1 +1,6 @@
 
+body {
+background:blue;
+color:white;
+}
+
